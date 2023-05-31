@@ -1,0 +1,12 @@
+digraph{ 
+root  [shape = Mcircle]
+0 [shape = doublecircle]
+root -> 0 [color = red, label = 0] 
+0 -> root [color = red, label = 0] 
+0 -> 0 [color = red, label = 1] 
+0 -> root [color = blue, label = 0] 
+0 -> 0 [color = blue, label = 1] 
+root -> root [color = red, label = 1] 
+root -> 0 [color = blue, label = 0] 
+root -> root [color = blue, label = 1] 
+} 

@@ -1,0 +1,11 @@
+digraph{ 
+root  [color = red, style=filled]
+0 [color = red, style=filled]
+root -> 0 [color = red, label = 0] 
+1 [color = blue, style=filled]
+root -> 1 [color = red, label = 1] 
+00 [color = blue, style=filled, shape=doublecircle]
+0 -> 00 [color = red, label = 0] 
+01 [color = blue, style=filled]
+0 -> 01 [color = red, label = 1] 
+} 

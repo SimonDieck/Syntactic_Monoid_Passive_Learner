@@ -1,0 +1,98 @@
+New red - freq: 5136
+New red - freq: 3708
+New red - freq: 2641
+New red - freq: 2495
+New red - freq: 2319
+New red - freq: 1390
+New red - freq: 1389
+Merge - edsm: 13; states merged: 149; new edges: 100; possible merges 1; fr: 1389; fb: 1330;
+Merge - edsm: 69; states merged: 253; new edges: 192; possible merges 1; fr: 2719; fb: 1622;
+New red - freq: 1251
+New red - freq: 1097
+New red - freq: 1025
+New red - freq: 1004
+Merge - edsm: 46; states merged: 220; new edges: 182; possible merges 1; fr: 7291; fb: 989;
+Merge - edsm: 59; states merged: 148; new edges: 125; possible merges 1; fr: 1444; fb: 920;
+New red - freq: 764
+New red - freq: 702
+Merge - edsm: 118; states merged: 437; new edges: 438; possible merges 1; fr: 3564; fb: 683;
+New red - freq: 539
+Merge - edsm: 24; states merged: 384; new edges: 315; possible merges 1; fr: 2495; fb: 538;
+Merge - edsm: 124; states merged: 886; new edges: 822; possible merges 1; fr: 1264; fb: 605;
+Merge - edsm: 147; states merged: 868; new edges: 817; possible merges 1; fr: 4163; fb: 709;
+Merge - edsm: 258; states merged: 1432; new edges: 1433; possible merges 1; fr: 2290; fb: 920;
+New red - freq: 487
+Merge - edsm: 29; states merged: 454; new edges: 324; possible merges 1; fr: 2641; fb: 466;
+New red - freq: 404
+New red - freq: 374
+New red - freq: 336
+New red - freq: 323
+New red - freq: 289
+Merge - edsm: 21; states merged: 188; new edges: 132; possible merges 1; fr: 814; fb: 258;
+New red - freq: 324
+Merge - edsm: 15; states merged: 147; new edges: 102; possible merges 1; fr: 374; fb: 268;
+New red - freq: 327
+Merge - edsm: 53; states merged: 314; new edges: 262; possible merges 1; fr: 632; fb: 304;
+Merge - edsm: 47; states merged: 292; new edges: 246; possible merges 1; fr: 878; fb: 290;
+New red - freq: 366
+New red - freq: 272
+Merge - edsm: 51; states merged: 378; new edges: 314; possible merges 1; fr: 3201; fb: 237;
+New red - freq: 251
+New red - freq: 199
+New red - freq: 192
+Merge - edsm: 24; states merged: 151; new edges: 128; possible merges 1; fr: 462; fb: 189;
+New red - freq: 203
+Merge - edsm: 14; states merged: 62; new edges: 43; possible merges 1; fr: 203; fb: 184;
+New red - freq: 182
+New red - freq: 180
+Merge - edsm: 46; states merged: 177; new edges: 168; possible merges 1; fr: 775; fb: 176;
+New red - freq: 227
+Merge - edsm: 13; states merged: 97; new edges: 38; possible merges 1; fr: 312; fb: 135;
+Merge - edsm: 33; states merged: 107; new edges: 78; possible merges 1; fr: 447; fb: 164;
+New red - freq: 249
+New red - freq: 157
+New red - freq: 128
+New red - freq: 124
+Merge - edsm: 28; states merged: 108; new edges: 109; possible merges 1; fr: 9784; fb: 121;
+New red - freq: 116
+Merge - edsm: 14; states merged: 54; new edges: 52; possible merges 1; fr: 249; fb: 114;
+New red - freq: 113
+Merge - edsm: 29; states merged: 104; new edges: 105; possible merges 1; fr: 7183; fb: 102;
+New red - freq: 100
+Merge - edsm: 20; states merged: 49; new edges: 40; possible merges 1; fr: 227; fb: 89;
+New red - freq: 95
+Merge - edsm: 11; states merged: 38; new edges: 32; possible merges 1; fr: 420; fb: 88;
+Merge - edsm: 13; states merged: 86; new edges: 67; possible merges 1; fr: 388; fb: 83;
+New red - freq: 106
+Merge - edsm: 23; states merged: 104; new edges: 102; possible merges 1; fr: 491; fb: 97;
+Merge - edsm: 22; states merged: 104; new edges: 105; possible merges 2; fr: 10061; fb: 82;
+New red - freq: 67
+Merge - edsm: 18; states merged: 96; new edges: 95; possible merges 1; fr: 642; fb: 67;
+Merge - edsm: 33; states merged: 144; new edges: 144; possible merges 1; fr: 775; fb: 80;
+Merge - edsm: 7; states merged: 41; new edges: 33; possible merges 3; fr: 113; fb: 54;
+New red - freq: 102
+Merge - edsm: 19; states merged: 58; new edges: 59; possible merges 1; fr: 728; fb: 53;
+Merge - edsm: 24; states merged: 92; new edges: 93; possible merges 1; fr: 333; fb: 59;
+Merge - edsm: 18; states merged: 75; new edges: 76; possible merges 1; fr: 8164; fb: 54;
+Merge - edsm: 3; states merged: 22; new edges: 17; possible merges 1; fr: 100; fb: 52;
+New red - freq: 57
+Merge - edsm: 10; states merged: 18; new edges: 17; possible merges 2; fr: 181; fb: 44;
+Merge - edsm: 10; states merged: 33; new edges: 31; possible merges 2; fr: 239; fb: 48;
+Merge - edsm: 19; states merged: 34; new edges: 35; possible merges 1; fr: 8458; fb: 62;
+New red - freq: 42
+Merge - edsm: 12; states merged: 44; new edges: 45; possible merges 1; fr: 8688; fb: 42;
+New red - freq: 40
+Merge - edsm: 5; states merged: 18; new edges: 15; possible merges 3; fr: 207; fb: 33;
+New red - freq: 31
+New red - freq: 30
+Merge - edsm: 3; states merged: 8; new edges: 5; possible merges 2; fr: 46; fb: 25;
+Merge - edsm: 5; states merged: 22; new edges: 14; possible merges 1; fr: 48; fb: 24;
+New red - freq: 32
+Merge - edsm: 7; states merged: 22; new edges: 22; possible merges 1; fr: 57; fb: 24;
+Merge - edsm: 6; states merged: 20; new edges: 21; possible merges 1; fr: 8870; fb: 18;
+Merge - edsm: 7; states merged: 16; new edges: 17; possible merges 2; fr: 7136; fb: 16;
+Merge - edsm: 4; states merged: 10; new edges: 11; possible merges 2; fr: 436; fb: 15;
+Merge - edsm: 4; states merged: 9; new edges: 10; possible merges 2; fr: 358; fb: 12;
+Merge - edsm: 7; states merged: 54; new edges: 55; possible merges 4; fr: 758; fb: 14;
+Merge - edsm: 5; states merged: 22; new edges: 23; possible merges 1; fr: 1718; fb: 10;
+Merge - edsm: 5; states merged: 13; new edges: 14; possible merges 2; fr: 1655; fb: 10;

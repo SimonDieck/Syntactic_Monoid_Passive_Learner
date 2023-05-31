@@ -1,0 +1,14 @@
+Automaton: 
+
+Initial number of states: 60128
+Number of states after merging: 12
+Time to collapse: 0.06s
+Perplexity Automaton: 407.27
+
+
+Syntactic Monoid: 
+
+Initial number of states: 506884
+Number of states after merging: 17736
+Time to collapse: 12603.16s
+Perplexity Syntactic Monoid: 459.95

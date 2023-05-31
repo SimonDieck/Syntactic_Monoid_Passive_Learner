@@ -1,0 +1,122 @@
+digraph{ 
+root 
+0
+root -> 0 [color = red, label = 0] 
+1
+root -> 1 [color = red, label = 1] 
+2 [shape = doublecircle]
+root -> 2 [color = red, label = 2] 
+00
+0 -> 00 [color = red, label = 0] 
+01
+0 -> 01 [color = red, label = 1] 
+02 [shape = doublecircle]
+0 -> 02 [color = red, label = 2] 
+10
+1 -> 10 [color = red, label = 0] 
+11
+1 -> 11 [color = red, label = 1] 
+12
+1 -> 12 [color = red, label = 2] 
+2 -> 02 [color = red, label = 0] 
+2 -> 12 [color = red, label = 1] 
+000
+00 -> 000 [color = red, label = 0] 
+001
+00 -> 001 [color = red, label = 1] 
+002 [shape = doublecircle]
+00 -> 002 [color = red, label = 2] 
+010
+01 -> 010 [color = red, label = 0] 
+011
+01 -> 011 [color = red, label = 1] 
+012 [shape = doublecircle]
+01 -> 012 [color = red, label = 2] 
+02 -> 002 [color = red, label = 0] 
+021
+02 -> 021 [color = red, label = 1] 
+100
+10 -> 100 [color = red, label = 0] 
+101
+10 -> 101 [color = red, label = 1] 
+10 -> 021 [color = red, label = 2] 
+110
+11 -> 110 [color = red, label = 0] 
+111
+11 -> 111 [color = red, label = 1] 
+112
+11 -> 112 [color = red, label = 2] 
+12 -> 012 [color = red, label = 0] 
+12 -> 112 [color = red, label = 1] 
+0000
+000 -> 0000 [color = red, label = 0] 
+0002 [shape = doublecircle]
+000 -> 0002 [color = red, label = 2] 
+0011
+001 -> 0011 [color = red, label = 1] 
+002 -> 0002 [color = red, label = 0] 
+0100
+010 -> 0100 [color = red, label = 0] 
+0101
+010 -> 0101 [color = red, label = 1] 
+0102 [shape = doublecircle]
+010 -> 0102 [color = red, label = 2] 
+0110
+011 -> 0110 [color = red, label = 0] 
+0111
+011 -> 0111 [color = red, label = 1] 
+0112
+011 -> 0112 [color = red, label = 2] 
+021 -> 0102 [color = red, label = 0] 
+0211
+021 -> 0211 [color = red, label = 1] 
+1000
+100 -> 1000 [color = red, label = 0] 
+1011
+101 -> 1011 [color = red, label = 1] 
+110 -> 0211 [color = red, label = 2] 
+1110
+111 -> 1110 [color = red, label = 0] 
+1112
+111 -> 1112 [color = red, label = 2] 
+112 -> 0112 [color = red, label = 0] 
+112 -> 1112 [color = red, label = 1] 
+00002 [shape = doublecircle]
+0000 -> 00002 [color = red, label = 2] 
+0002 -> 00002 [color = red, label = 0] 
+00021
+0002 -> 00021 [color = red, label = 1] 
+00111
+0011 -> 00111 [color = red, label = 1] 
+01000
+0100 -> 01000 [color = red, label = 0] 
+01011
+0101 -> 01011 [color = red, label = 1] 
+01102 [shape = doublecircle]
+0110 -> 01102 [color = red, label = 2] 
+01110
+0111 -> 01110 [color = red, label = 0] 
+01112
+0111 -> 01112 [color = red, label = 2] 
+01121
+0112 -> 01121 [color = red, label = 1] 
+0211 -> 01102 [color = red, label = 0] 
+02111
+0211 -> 02111 [color = red, label = 1] 
+1000 -> 00021 [color = red, label = 2] 
+1011 -> 01121 [color = red, label = 2] 
+1110 -> 02111 [color = red, label = 2] 
+1112 -> 01112 [color = red, label = 0] 
+000210 [shape = doublecircle]
+00021 -> 000210 [color = red, label = 0] 
+001112 [shape = Mcircle]
+00111 -> 001112 [color = red, label = 2] 
+01000 -> 000210 [color = red, label = 2] 
+010112 [shape = Mcircle]
+01011 -> 010112 [color = red, label = 2] 
+011102 [shape = doublecircle]
+01110 -> 011102 [color = red, label = 2] 
+01112 -> 001112 [color = red, label = 0] 
+01121 -> 010112 [color = red, label = 0] 
+02111 -> 011102 [color = red, label = 0] 
+} 

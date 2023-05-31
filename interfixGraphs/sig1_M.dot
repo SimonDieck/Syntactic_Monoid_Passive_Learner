@@ -1,0 +1,49 @@
+digraph{ 
+root 
+0
+root -> 0 [color = red, label = 0] 
+1
+root -> 1 [color = red, label = 1] 
+2 [shape = doublecircle]
+root -> 2 [color = red, label = 2] 
+00
+0 -> 00 [color = red, label = 0] 
+0 -> root [color = red, label = 1] 
+02 [shape = doublecircle]
+0 -> 02 [color = red, label = 2] 
+1 -> 00 [color = red, label = 0] 
+11
+1 -> 11 [color = red, label = 1] 
+12 [shape = Mcircle]
+1 -> 12 [color = red, label = 2] 
+2 -> 02 [color = red, label = 0] 
+2 -> 12 [color = red, label = 1] 
+00 -> 0 [color = red, label = 0] 
+001
+00 -> 001 [color = red, label = 1] 
+002 [shape = doublecircle]
+00 -> 002 [color = red, label = 2] 
+02 -> 002 [color = red, label = 0] 
+02 -> 002 [color = red, label = 1] 
+11 -> 0 [color = red, label = 0] 
+111
+11 -> 111 [color = red, label = 1] 
+112
+11 -> 112 [color = red, label = 2] 
+12 -> 2 [color = red, label = 0] 
+12 -> 112 [color = red, label = 1] 
+0011
+001 -> 0011 [color = red, label = 1] 
+002 -> 02 [color = red, label = 0] 
+002 -> 02 [color = red, label = 1] 
+1110
+111 -> 1110 [color = red, label = 0] 
+1112
+111 -> 1112 [color = red, label = 2] 
+112 -> 12 [color = red, label = 0] 
+112 -> 1112 [color = red, label = 1] 
+0011 -> 1 [color = red, label = 1] 
+0011 -> 112 [color = red, label = 2] 
+1110 -> 002 [color = red, label = 2] 
+1112 -> 112 [color = red, label = 0] 
+} 

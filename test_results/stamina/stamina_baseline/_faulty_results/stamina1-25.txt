@@ -1,0 +1,325 @@
+
+
+Input: .\data\staminadata\1_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 10538
+Number of states after merging: 58
+Time to collapse: 0.01s
+Generating Syntactic Monoid 
+
+Initial number of states: 51150
+Number of states after merging: 13490
+Time to collapse: 195.20s
+
+
+Input: .\data\staminadata\2_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 30661
+Number of states after merging: 72
+Time to collapse: 0.02s
+Generating Syntactic Monoid 
+
+Initial number of states: 215028
+Number of states after merging: 47743
+Time to collapse: 8598.09s
+
+
+Input: .\data\staminadata\3_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 24323
+Number of states after merging: 73
+Time to collapse: 0.02s
+Generating Syntactic Monoid 
+
+Initial number of states: 139566
+Number of states after merging: 34832
+Time to collapse: 4602.99s
+
+
+Input: .\data\staminadata\4_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 15281
+Number of states after merging: 55
+Time to collapse: 0.01s
+Generating Syntactic Monoid 
+
+Initial number of states: 91404
+Number of states after merging: 22248
+Time to collapse: 954.87s
+
+
+Input: .\data\staminadata\5_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 14517
+Number of states after merging: 66
+Time to collapse: 0.01s
+Generating Syntactic Monoid 
+
+Initial number of states: 92163
+Number of states after merging: 23385
+Time to collapse: 1999.43s
+
+
+Input: .\data\staminadata\6_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 12543
+Number of states after merging: 168
+Time to collapse: 0.04s
+Generating Syntactic Monoid 
+
+Initial number of states: 84980
+Number of states after merging: 21448
+Time to collapse: 1660.41s
+
+
+Input: .\data\staminadata\7_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 9034
+Number of states after merging: 181
+Time to collapse: 0.05s
+Generating Syntactic Monoid 
+
+Initial number of states: 63759
+Number of states after merging: 15745
+Time to collapse: 434.66s
+
+
+Input: .\data\staminadata\8_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 3592
+Number of states after merging: 61
+Time to collapse: 0.00s
+Generating Syntactic Monoid 
+
+Initial number of states: 11375
+Number of states after merging: 2943
+Time to collapse: 15.30s
+
+
+Input: .\data\staminadata\9_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 19881
+Number of states after merging: 58
+Time to collapse: 0.01s
+Generating Syntactic Monoid 
+
+Initial number of states: 137174
+Number of states after merging: 33259
+Time to collapse: 3427.52s
+
+
+Input: .\data\staminadata\10_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 7357
+Number of states after merging: 46
+Time to collapse: 0.00s
+Generating Syntactic Monoid 
+
+Initial number of states: 31796
+Number of states after merging: 7445
+Time to collapse: 79.18s
+
+
+Input: .\data\staminadata\11_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 8972
+Number of states after merging: 47
+Time to collapse: 0.01s
+Generating Syntactic Monoid 
+
+Initial number of states: 64855
+Number of states after merging: 14204
+Time to collapse: 793.60s
+
+
+Input: .\data\staminadata\12_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 2228
+Number of states after merging: 67
+Time to collapse: 0.01s
+Generating Syntactic Monoid 
+
+Initial number of states: 9072
+Number of states after merging: 1979
+Time to collapse: 4.65s
+
+
+Input: .\data\staminadata\13_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 7802
+Number of states after merging: 143
+Time to collapse: 0.07s
+Generating Syntactic Monoid 
+
+Initial number of states: 79823
+Number of states after merging: 17137
+Time to collapse: 811.83s
+
+
+Input: .\data\staminadata\14_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 7144
+Number of states after merging: 138
+Time to collapse: 0.06s
+Generating Syntactic Monoid 
+
+Initial number of states: 65660
+Number of states after merging: 16388
+Time to collapse: 1186.42s
+
+
+Input: .\data\staminadata\15_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 3106
+Number of states after merging: 91
+Time to collapse: 0.01s
+Generating Syntactic Monoid 
+
+Initial number of states: 15049
+Number of states after merging: 3502
+Time to collapse: 22.15s
+
+
+Input: .\data\staminadata\16_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 2013
+Number of states after merging: 53
+Time to collapse: 0.01s
+Generating Syntactic Monoid 
+
+Initial number of states: 10844
+Number of states after merging: 1993
+Time to collapse: 8.33s
+
+
+Input: .\data\staminadata\17_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 4448
+Number of states after merging: 96
+Time to collapse: 0.02s
+Generating Syntactic Monoid 
+
+Initial number of states: 27572
+Number of states after merging: 5885
+Time to collapse: 105.68s
+
+
+Input: .\data\staminadata\18_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 2827
+Number of states after merging: 69
+Time to collapse: 0.01s
+Generating Syntactic Monoid 
+
+Initial number of states: 11819
+Number of states after merging: 2816
+Time to collapse: 10.70s
+
+
+Input: .\data\staminadata\19_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 3751
+Number of states after merging: 86
+Time to collapse: 0.01s
+Generating Syntactic Monoid 
+
+Initial number of states: 19111
+Number of states after merging: 4106
+Time to collapse: 26.90s
+
+
+Input: .\data\staminadata\20_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 1760
+Number of states after merging: 51
+Time to collapse: 0.01s
+Generating Syntactic Monoid 
+
+Initial number of states: 6886
+Number of states after merging: 1153
+Time to collapse: 3.25s
+
+
+Input: .\data\staminadata\21_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 28905
+Number of states after merging: 96
+Time to collapse: 0.10s
+Generating Syntactic Monoid 
+
+Initial number of states: 170583
+Number of states after merging: 19860
+Time to collapse: 2509.97s
+
+
+Input: .\data\staminadata\22_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 25507
+Number of states after merging: 99
+Time to collapse: 0.08s
+Generating Syntactic Monoid 
+
+Initial number of states: 191793
+Number of states after merging: 26926
+Time to collapse: 2818.22s
+
+
+Input: .\data\staminadata\23_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 47139
+Number of states after merging: 116
+Time to collapse: 0.13s
+Generating Syntactic Monoid 
+
+Initial number of states: 388979
+Number of states after merging: 49621
+Time to collapse: 16866.60s
+
+
+Input: .\data\staminadata\24_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 39259
+Number of states after merging: 169
+Time to collapse: 0.41s
+Generating Syntactic Monoid 
+
+Initial number of states: 632662
+Number of states after merging: 77914
+Time to collapse: 56794.63s
+
+
+Input: .\data\staminadata\25_training.txt.dat
+Generating Automaton 
+
+Initial number of states: 15565
+Number of states after merging: 122
+Time to collapse: 0.09s
+Generating Syntactic Monoid 
+
+Initial number of states: 90202
+Number of states after merging: 11590
+Time to collapse: 526.14s
